@@ -7,3 +7,5 @@ function greeting() {
         alert("You`re permitted to be here");
     }
 }
+
+// function which checking of how old are you before entering
